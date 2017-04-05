@@ -2,7 +2,8 @@
     {
         "name": "Hestavollane",
         "data": [
-            1,
+            10,
+            null,
             10,
             1.1,
             1,

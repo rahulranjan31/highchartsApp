@@ -42,10 +42,10 @@ export class AppComponent {
         },
         series: data,
         navigation: {
-        menuItemStyle: {
+          menuItemStyle: {
             fontSize: '10px'
+          }
         }
-    }
       }
     );
   }
